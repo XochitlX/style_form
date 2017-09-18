@@ -16,7 +16,7 @@ gem 'less-rails-bootstrap'
 gem "font-awesome-rails"
 gem 'jquery-easing-rails'
 
-gem 'sprockets', '3.6.3'
+#gem 'sprockets', '3.6.3'
 
 
 group :development, :test do
